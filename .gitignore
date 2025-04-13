@@ -1,1 +1,6 @@
 rq3/2022_processed_all.csv
+rq2/2020/first_half/part.0.parquet
+rq2/2020/first_half/part.1.parquet
+rq2/2020/next_half/part.0.parquet
+rq2/2020/next_half/part.1.parquet
+rq2/fhvhv_tripdata_2020-01.parquet
